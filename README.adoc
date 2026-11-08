@@ -17,6 +17,11 @@ List of tech companies to help developers to find jobs.
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|CloudJinix
+|Dhaka, Bangladesh
+|Proxmox KVM, Cloud VPS, Next.js, Node.js, Linux, BDIX Peering
+|https://jinix.cloud[Website]
+
 |Augmedix Inc.
 |SS Steel Building, Suite 203, 17/C Panthapath, Dhaka
 |Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, Machine Learning
@@ -60,6 +65,11 @@ https://github.com/ChumbokIT[Github]
 ==== Alphabetical Order: D - F
 |===
 |Company Name |Office location |Technologies | Web presence
+
+|FiberNox
+|Dhaka, Bangladesh
+|Next.js, NestJS, MikroTik RouterOS API, FreeRADIUS, SoftEther VPN, PostgreSQL
+|https://fibernox.com[Website]
 
 |DataSoft
 |Rupayan Shelford (20th floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
@@ -160,6 +170,11 @@ https://www.linkedin.com/company/magnito-digital/[LinkedIn]
 ==== Alphabetical Order: S - U
 |===
 |Company Name |Office location |Technologies | Web presence
+
+|SMSBD.Asia (SMS Pulse)
+|Dhaka, Bangladesh
+|PHP, MariaDB, Nginx, Bulk SMS Gateway, REST API, Android Gateway
+|https://smsbd.asia[Website]
 
 |Samsung R&D (Korea)
 |56, Seongchon-gil, Seocho-gu, Seoul, Republic of Korea 111 Sonargaon Road, Dhaka 1205
